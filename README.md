@@ -1,3 +1,8 @@
+# 🩺 Medical Diagnosis Prediction using Decision Tree (All-in-One)
+
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 # Medical Diagnosis Prediction using Decision Tree (All-in-One)
 
 This project predicts whether a patient is likely to have **Diabetes** based on their medical parameters using a **Decision Tree Classifier**. The prediction is displayed as a **colored circle** with the result text inside for easy visualization.
@@ -102,3 +107,4 @@ Indore, India
 
 
 ```
+
