@@ -1,6 +1,8 @@
+# My Project Title
 
-![License](https://github.com/kanha165/-Check-Diabetes-Using-Decision-Tree/blob/main/LICENSE)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
+
 
 # Medical Diagnosis Prediction using Decision Tree (All-in-One)
 
